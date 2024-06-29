@@ -1,13 +1,13 @@
-# Student Management System
+# Student Management System 
 
 This project is a simple student management system that allows you to add, list, update, and delete student information. It is implemented in Java and uses a command-line interface for user interaction.
 
 ## Features
 
-- Add new students
-- List all students
-- Update existing student information
-- Delete a student
+- Add new students 👩🏻‍🎓
+- List all students 📋
+- Update existing student information 🆕
+- Delete a student 🗑️
 
 ## Prerequisites
 
